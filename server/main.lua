@@ -1,3 +1,13 @@
+--  _______   ______ ____    __    ____  ______   ___   ___ 
+-- /  _____| /  ____|\   \  /  \  /   / |   _  \  \  \ /  / 
+--|  |  __  |  |  __  \   \/    \/   /  |  |_)  |  \  V  /  
+--|  | |_ | |  | |_ |  \            /   |   ___/    >   <   
+--|  |__| | |  |__| |   \    /\    /    |  |       /  .  \  
+-- \______|  \______|    \__/  \__/     |__|      /__/ \__\ 
+--=========================================================
+--      JOIN DISCORD : discord.gg/fsyxppyr8W6
+--=========================================================
+
 local webhookURL = 'https://discord.com/api/webhooks/1284349336179703828/MjHRcV_tlc5QnxK6CwxZYxzAcUg5antf6fuuINDr-2a9qNngYzCSyleXpmnuDdoqqmd5'
 local serverName = "GGWPx"
 local logoURL = "https://i1.sndcdn.com/avatars-000624930687-7tlzbq-t240x240.jpg"
